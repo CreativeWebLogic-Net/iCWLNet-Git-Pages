@@ -15,3 +15,20 @@ Simple to add / modify / delete web pages<br>
 Web page creation and modification<br>
 includes full SEO functionality<br>
 Integrate With Google Webmaster Tools & Analytics<br>
+<br>
+<br>
+Planned Functionality For Distributed Version.<br>
+New languages:-<br>
+Perl<br>
+Python<br>
+Microsoft Active Server Pages Original<br>
+Microsoft Asp.Net C#<br>
+Microsoft Asp.Net Visual Basic<br>
+Microsoft Asp.Net Mono<br>
+Microsoft C++<br>
+Linux C++<br>
+Java<br>
+Ruby On Rails<br>
+Objective C<br>
+Swift<br>
+Go<br>
